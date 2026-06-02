@@ -91,8 +91,8 @@ http://127.0.0.1:5000
   ---
 
 ## 👥 Team Members
-- Prince Kumar Yadav
 - Saksham Luther
+- Prince kumar Yadav 
 - Rohnit
 - Manpreet Kaur
 - Ishmeet Singh
@@ -100,7 +100,7 @@ http://127.0.0.1:5000
 ---
 
 ## 👨‍💻 Author
-**Prince Kumar Yadav**<br>
+**SAKSHAM LUTHER**<br>
 B.Tech CSE | Cybersecurity Enthusiast<br>
 Focused on building intelligent security systems and real-world SOC solutions
 
